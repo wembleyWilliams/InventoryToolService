@@ -8,14 +8,16 @@ using System;
 namespace InventoryAuditService
 {
     public partial class AuditService : ServiceBase
-    {        
+    {
+        Audit audit = new Audit();
         public AuditService()
         {
             InitializeComponent();
+           
         }
         protected override void OnStart(string[] args)
         {
-            WriteToFile("Audit Service Started");
+            WriteToFile("Audit Service Started");            
             this.ScheduleService();
         }
 
@@ -71,6 +73,9 @@ namespace InventoryAuditService
 
                 //Get the difference in Minutes between the Scheduled and Current Time.
                 int dueTime = Convert.ToInt32(timeSpan.TotalMilliseconds);
+
+                //Will execute the audit functions and submit data.
+                audit.Execute();
 
                 //Change the Timer's Due Time.
                 Schedular.Change(dueTime, Timeout.Infinite);

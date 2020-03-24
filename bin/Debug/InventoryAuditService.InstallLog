@@ -791,3 +791,50 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\bin\Debug\InventoryAuditService.InstallLog
    assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\bin\Debug\InventoryAuditService.exe
+Installing assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
+Installing service InventoryService...
+Creating EventLog source InventoryService in log Application...
+Rolling back assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
+Restoring event log to previous state for source InventoryService.
+Installing assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
+Installing service InventoryService...
+Service InventoryService has been successfully installed.
+Creating EventLog source InventoryService in log Application...
+Committing assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
+Uninstalling assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
+Removing EventLog source InventoryService.
+Service InventoryService is being removed from the system...
+Service InventoryService was successfully removed from the system.
+Installing assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
+Installing service InventoryService...
+Service InventoryService has been successfully installed.
+Creating EventLog source InventoryService in log Application...
+Committing assembly 'C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.InstallLog
+   assemblypath = C:\Users\Wembley Williams\source\repos\Final\InventoryToolService\bin\Debug\InventoryAuditService.exe
