@@ -1,0 +1,8 @@
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\bin\Debug\InventoryAuditService.exe.config
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\bin\Debug\InventoryAuditService.exe
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\bin\Debug\InventoryAuditService.pdb
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\obj\Debug\InventoryAuditService.csprojAssemblyReference.cache
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\obj\Debug\InventoryAuditService.ProjectInstaller.resources
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\obj\Debug\InventoryAuditService.csproj.GenerateResource.cache
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\obj\Debug\InventoryAuditService.exe
+C:\Users\Wembley Williams\source\repos\Final\InventoryAuditService\obj\Debug\InventoryAuditService.pdb
